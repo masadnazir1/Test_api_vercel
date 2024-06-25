@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API for product data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", // Added start script to run the API server
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC", // Replace with your preferred license
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
